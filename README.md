@@ -2,7 +2,7 @@
 
 A blockchain crowdfunding platform is a digital platform that leverages blockchain technology and the principles of
 Web3 to facilitate crowdfunding campaigns. This innovative approach to crowdfunding offers several advantages
-over traditional crowdfunding platforms
+over traditional crowdfunding platforms.
 
 
 Screen Shot 1: On Starting the Local Host Metmask ask for authentication
