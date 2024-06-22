@@ -21,7 +21,7 @@ Screen Shot 3: Creating the Campaign Transaction has been processed.
 
 
 
-Screen Shot 4: Showing the all Campaigns AreA.
+Screen Shot 4: Showing the all Campaigns Area.
 
 
 ![All Campaigns](https://github.com/sankalp-io/Decentralised-Crowdfunding/assets/99067768/f3dcb6b7-1eed-477c-ab1a-8235453e97ab)
